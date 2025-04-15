@@ -32,7 +32,7 @@ This repository is a live, structured showcase of everything I’m learning, bui
   - [variables.py](./Python-Basics/variables.py)
   - [loops.py](./Python-Basics/loops.py)
   - [functions.py](./Python-Basics/functions.py)
-  - [README.md](./Python-Basics/README.md)
+
 
 - [Cybersecurity](./Cybersecurity/)
   - [TryHackMe - Day 1 Notes](./Cybersecurity/TryHackMe-Journey/day1_notes.md)
