@@ -1,5 +1,5 @@
 
-# 🚀 AI + Cybersecurity Roadmap (2025–2026)
+# 🚀 AI + Cybersecurity Roadmap
 
 Welcome! I'm a B.Tech Computer Science student on a mission to build a powerful, future-ready career by mastering **Artificial Intelligence + Cybersecurity** — two of the most in-demand fields in tech today.
 
